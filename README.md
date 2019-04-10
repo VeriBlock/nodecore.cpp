@@ -18,7 +18,8 @@ Contribution guidelines:
 
 - Log an issue, fork repository (optional), create a feature branch from develop branch, reference issue# in the branch name.  
 Example: feature/17
-
+- Commit commnents should referense issue# in square brackets.    
+Example: [17] -  test commit
 -  Push code changes into feature branch and create PR into develop branch. Assign reviewer.
 
 
