@@ -11,7 +11,7 @@
 #include "stringbuilder.h"
 
 // VeriBlock NodeCore
-// Copyright 2017-2018 VeriBlock, Inc.
+// Copyright 2017-2019 Xenios SEZC
 // All rights reserved.
 // https://www.veriblock.org
 // Distributed under the MIT software license, see the accompanying

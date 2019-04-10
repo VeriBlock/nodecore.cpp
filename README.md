@@ -1,6 +1,8 @@
 # nodecore.cpp
 C++ translation for nodecore repo
 
+Original code here: https://github.com/VeriBlock/nodecore
+
 This is work in progress... and a starting point for C++ apps building on Veriblock. 
 
 Was developed using CLion/Mac OS     
